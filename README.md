@@ -1,8 +1,9 @@
-Datara - Rust GUI File Manager
+Datara Sci-fi - Rust GUI File Manager
 
-https://github.com/Lambda-tron/datara/blob/main/previews/preview1.png
 ![Alt text](previews/preview1.png)
 ![Alt text](previews/preview2.png)
+<img src="previews/preview1.png" width="200">
+<img src="previews/preview2.png" width="200">
 
 Build
 

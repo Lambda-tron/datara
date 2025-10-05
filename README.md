@@ -1,5 +1,7 @@
 Datara - Rust GUI File Manager
+
 https://github.com/Lambda-tron/datara/blob/main/previews/preview1.png
+
 Build
 
 ```bash

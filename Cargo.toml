@@ -1,0 +1,10 @@
+[package]
+name = "datara"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = { version = "0.28", features = ["wgpu", "x11", "wayland"] }
+egui = "0.28"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+image = "0.24"

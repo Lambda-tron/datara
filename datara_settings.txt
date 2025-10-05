@@ -1,0 +1,6 @@
+ui_scale=1.1
+max_items_per_row=2
+show_scanlines=false
+show_hidden=false
+horizontal_spacing=25
+vertical_spacing=16

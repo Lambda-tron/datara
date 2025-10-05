@@ -1,7 +1,10 @@
 Datara Sci-fi - Rust GUI File Manager
 
-<img src="previews/preview1.png" width="500">
-<img src="previews/preview2.png" width="500">
+<p align="center">
+  <img src="previews/preview1.png" width="45%" />
+  <img src="previews/preview2.png" width="45%" />
+</p>
+
 
 Build
 

@@ -1,0 +1,12 @@
+/home/sosa/datara/target/release/deps/ecolor-20b9bc2985b8c233.d: /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/lib.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/color32.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva_gamma.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/rgba.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hex_color_runtime.rs
+
+/home/sosa/datara/target/release/deps/libecolor-20b9bc2985b8c233.rlib: /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/lib.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/color32.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva_gamma.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/rgba.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hex_color_runtime.rs
+
+/home/sosa/datara/target/release/deps/libecolor-20b9bc2985b8c233.rmeta: /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/lib.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/color32.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva_gamma.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/rgba.rs /home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hex_color_runtime.rs
+
+/home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/lib.rs:
+/home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/color32.rs:
+/home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva_gamma.rs:
+/home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hsva.rs:
+/home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/rgba.rs:
+/home/sosa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.28.1/src/hex_color_runtime.rs:
